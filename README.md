@@ -1,1 +1,2 @@
-Voortdurend error melding: Failed to loaded Oculus SDK bij instalatie
+Voortdurend error melding: Failed to initialize Oculus SDK bij instalatie...
+Andrew heeft geen meerwaarde gegeven
